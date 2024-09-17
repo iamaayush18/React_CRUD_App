@@ -16,7 +16,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/CRUD_ReactApp.git
+   git clone https://github.com/iamaayush18/CRUD_ReactApp.git
    ```
 
 2. **Navigate into the project directory:**
